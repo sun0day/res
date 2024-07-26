@@ -1,2 +1,2 @@
 # rushjs
-A experimental Javascript engine.
+An experimental Javascript engine.
