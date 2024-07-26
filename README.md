@@ -1,2 +1,2 @@
-# res
-A experimental Javascript compiler
+# rushjs
+A experimental Javascript engine.
