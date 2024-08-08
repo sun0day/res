@@ -1,0 +1,11 @@
+[package]
+name = "rush_js"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bumpalo = "3.16.0"
+
+[profile.release]
+lto = true
+strip = "symbols"
